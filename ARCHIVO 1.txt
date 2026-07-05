@@ -1,6 +1,6 @@
-
 >> Mi primer repositorio
 >> primer instancia
 >> Segundo cambio para actualizar de local a la webpull
 >> Se guarda localmente el archivo 1 txt
 >> El primer cambio se subio con 
+::Se realiza el cambio en el repositorio WEB (REMOTO) y se bajan con Pull desde Git
